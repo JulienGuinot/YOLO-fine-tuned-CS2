@@ -13,6 +13,10 @@ Le fichier `train_cs.py` permet d'entraîner le modèle et génère en sortie le
 - Support pour l'analyse d'**images** et de **vidéos** 🎥
 - **GPU** supporté si disponible (CUDA + PyTorch) 💪
 
+![batch test](/runs/detect/train2/train_batch2.jpg)
+
+
+
 ## 🛠️ Prérequis
 - Python 3.x 🐍
 - PyTorch ⚡
@@ -24,7 +28,6 @@ Le fichier `train_cs.py` permet d'entraîner le modèle et génère en sortie le
    ```bash
    git clone https://github.com/JulienGuinot/YOLO-fine-tuned-CS2
    ```
-   
 2. Installer les dépendances : `pip install -r requirements.txt`
 3. Exécuter le script d'inférence : `python inference.py`
 
