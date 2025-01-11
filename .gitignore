@@ -1,0 +1,15 @@
+# Dossiers à ignorer
+runs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Extensions à ignorer
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# Environnement virtuel
+venv/
+env/

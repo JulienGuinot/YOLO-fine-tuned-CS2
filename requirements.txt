@@ -1,0 +1,16 @@
+# Dépendances principales
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.22.0
+
+# Dépendances pour l'export et l'inférence
+onnx>=1.12.0
+onnxruntime-gpu>=1.12.0; platform_system != "Darwin"
+onnxruntime>=1.12.0; platform_system == "Darwin"
+
+# Utilitaires
+PyYAML>=5.3.1
+matplotlib>=3.3.0
+pillow>=7.1.2
