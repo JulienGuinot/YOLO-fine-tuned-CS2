@@ -13,7 +13,7 @@ Le fichier `train_cs.py` permet d'entraîner le modèle et génère en sortie le
 - Support pour l'analyse d'**images** et de **vidéos** 🎥
 - **GPU** supporté si disponible (CUDA + PyTorch) 💪
 
-![batch test](/runs/detect/train2/train_batch2.jpg)
+![batch test](test_batch.jpg)
 
 
 
