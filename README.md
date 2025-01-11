@@ -24,9 +24,16 @@ Le fichier `train_cs.py` permet d'entraîner le modèle et génère en sortie le
    ```bash
    git clone https://github.com/JulienGuinot/YOLO-fine-tuned-CS2
    ```
+   
 2. Installer les dépendances : `pip install -r requirements.txt`
 3. Exécuter le script d'inférence : `python inference.py`
 
 
-## Modèle
-Le modèle est disponible dans le dossier `models/` 🚀 
+## 🧑‍💻 Modèle
+
+Le modèle est disponible dans le dossier models/ 🚀
+
+
+## 🐞 Issues
+
+Si vous rencontrez un problème lors de l'installation ou de l'inférence, n'hésitez pas à ouvrir une Issue sur le projet. Je ferai de mon mieux pour y répondre le plus rapidement possible 😊
