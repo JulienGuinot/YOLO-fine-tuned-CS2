@@ -27,13 +27,4 @@ utilisable pour l'inférence. Vous pouvez ré-entrainer le modèle ou utiliser l
 
 
 ## Modèle
-Le modèle est disponible dans le dossier `models/`
-Ultralytics 8.3.58 🚀 Python-3.12.6 torch-2.5.1+cu121 CUDA:0 (NVIDIA GeForce RTX 2080 SUPER, 8192MiB)
-Model summary (fused): 168 layers, 3,006,428 parameters, 0 gradients, 8.1 GFLOPs
-                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 12/12 [00:02<00:00,  4.79it/s]
-                   all        383        831      0.926      0.884      0.932      0.553
-                    ct        189        244      0.926      0.927      0.953      0.593
-                cthead        185        237      0.899      0.835      0.888      0.422
-                     t        137        183      0.947      0.891      0.964       0.69
-                 thead        123        167      0.931      0.884      0.923      0.508
-Speed: 0.2ms preprocess, 1.5ms inference, 0.0ms loss, 0.9ms postprocess per image
+Le modèle est disponible dans le dossier `models/` 🚀 
